@@ -133,7 +133,7 @@
 <ul>
   <li>Spring MVC는 이전에 Java, JSP에서 배웠던 MVC 모델과는 또 다른 점을 가지고 있다.</li>
   <li>JSP에서 진행되었던 MVC 2 모델과는 유사하지만, 사용자의 요청과 처리하는 방법이 살짝 다르고, 역할군들이 살짝씩 다르니 아래 그림을 참고해보자.</li>
-  <img src = https://postfiles.pstatic.net/MjAyMjExMDJfODcg/MDAxNjY3MzM2MTYyNDYy.l_z1jp9dlEooKfL0fHlhjqF-XvYdfWnE8J26GYaZcUEg.BBaFO_kgxsZP64Vsm46hy9b-4CL8VAijAORfLXr2ubYg.PNG.mesudal/FrontController-Pattern.png?type=w773">
+  <img src = "https://postfiles.pstatic.net/MjAyMjExMDJfODcg/MDAxNjY3MzM2MTYyNDYy.l_z1jp9dlEooKfL0fHlhjqF-XvYdfWnE8J26GYaZcUEg.BBaFO_kgxsZP64Vsm46hy9b-4CL8VAijAORfLXr2ubYg.PNG.mesudal/FrontController-Pattern.png?type=w773">
   <li>위 그림을 보게 되면 각 번호에 따라 요청→응답까지 진행되게 된다.</li>
   <ul>
     <li>1.사용자로부터 요청을 받으면 Dispatcher Servlet으로 해당 요청을 보낸다.</li>
@@ -206,33 +206,6 @@
     <img src="https://postfiles.pstatic.net/MjAyMjEyMzFfMTYg/MDAxNjcyNDgzMjczNTYx.zn83fpSJ-2jpp7wkk4XpFIdS0uKlEkmgAg_bpxn8dp0g.K7y-UU7-vm5PMcod4QdqaX68usualFefU9DKSwWYnoQg.PNG.mesudal/image.png?type=w773">
   </div>
 </ul>
-
-
-<h3></h3>
-<ul>
-  <li>HttpServletRequest</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-
-
-<h3></h3>
-<ul>
-  <li>HttpServletRequest</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-
 
 <h3>Business 계층</h3>
 <ul>
